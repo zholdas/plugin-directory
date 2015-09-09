@@ -1,5 +1,10 @@
 [
     {
+        "description": "Convert all text layers on current page to outlines.",
+        "name": "Texts-to-Outlines",
+        "owner": "zholdas"
+    },
+    {
         "description": "Sync Sketch artboards to Prott like a boss.",
         "name": "Prott-Sketch-Plugin",
         "owner": "goodpatch"
