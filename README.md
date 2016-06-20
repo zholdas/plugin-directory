@@ -10,7 +10,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Align Text Baseline](https://github.com/soutaro/align-text-baseline-sketch-plugin), by Soutaro Matsumoto: Align text layer vertically based on its baseline and cap height.
 - [Align To](https://github.com/lucienlee/alignto), by Lucien Lee: Sketch 3 plugin that align layers relative to more options.
 - [Align to Layer](https://github.com/rodi01/align-to-layer), by Rodrigo Soares: Sketch plugin to align selected layers to the bottom one.
-- [Align underlines in hyperlinks](https://github.com/zholdas/sketch-link-underline-align), by : Properly align link underline layers regardless of their text in Sketch
+- [Align underlines in hyperlinks](https://github.com/zholdas/sketch-link-underline-align), by Zholdasbek Temirgaliyev: Properly align link underline layers regardless of their text in Sketch
 - [Android Assets](https://github.com/zmalltalker/sketch-android-assets), by Marius Mathiesen: Generate Android assets in Sketch.
 - [AnimateMate](https://github.com/creatide/animatemate), by Sakari Niittymaa: Create your animations directly in Sketch
 - [Archetype](https://github.com/matt-curtis/archetype), by Matt Curtis: An experimental CSS layout plugin for Sketch.
